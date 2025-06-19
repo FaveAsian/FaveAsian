@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hong Wang. A Junior at Northwestern University majoring in computer science and minoring in data science. Welcome to my humble profile
+- 👋 Hi, I’m Hong Wang. A software engineer at Wells Fargo. My focus is on Java and Python in the backend. Open to new opportunities related to backend, infrastructure,e and cloud!
 - You can reach me at hongwang0601@gmail.com or visit my Linkedin: https://www.linkedin.com/in/hongwang0601/
 
 <!---
